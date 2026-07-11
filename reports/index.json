@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-235816-gub2",
+      "title": "Bubble Wrap Il",
+      "commanders": [
+        "Bubble Wrap Il"
+      ],
+      "dateStart": "2026-07-11T04:58:16.000Z",
+      "dateEnd": "2026-07-11T05:45:42.000Z",
+      "dateLabel": "7/10/2026, 11:58:16 PM - 7/11/2026, 12:45:42 AM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260710-235816-gub2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260707-203015-2kh9",
       "title": "Prosecute",
       "commanders": [
