@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260713-205521-mq5w",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "dateStart": "2026-07-14T01:55:21.000Z",
+      "dateEnd": "2026-07-14T02:45:38.000Z",
+      "dateLabel": "7/13/2026, 8:55:21 PM - 7/13/2026, 9:45:38 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260713-205521-mq5w",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 24,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260710-235816-gub2",
       "title": "Bubble Wrap Il",
       "commanders": [
