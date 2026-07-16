@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-201918-tx7f",
+      "title": "Floorpov Cay, Link Does Damage",
+      "commanders": [
+        "Floorpov Cay",
+        "Link Does Damage"
+      ],
+      "dateStart": "2026-07-16T01:19:18.000Z",
+      "dateEnd": "2026-07-16T01:56:00.000Z",
+      "dateLabel": "7/15/2026, 8:19:18 PM - 7/15/2026, 8:56:00 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260715-201918-tx7f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 31,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260713-205521-mq5w",
       "title": "Paralda",
       "commanders": [
