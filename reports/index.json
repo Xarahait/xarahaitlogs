@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-221918-728h",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "dateStart": "2026-07-25T03:19:18.000Z",
+      "dateEnd": "2026-07-25T04:32:02.000Z",
+      "dateLabel": "7/24/2026, 10:19:18 PM - 7/24/2026, 11:32:02 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260724-221918-728h",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260717-215622-qdpt",
       "title": "Tràsh Pandà",
       "commanders": [
