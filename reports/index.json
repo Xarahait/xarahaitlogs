@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-174400-18ik",
+      "title": "Marcus Luceát",
+      "commanders": [
+        "Marcus Luceát"
+      ],
+      "guild": {
+        "id": "8F8A4283-0868-E911-81AB-B972029346A8",
+        "name": "Poxy",
+        "tag": "Poxy"
+      },
+      "dateStart": "2026-08-02T22:44:00.000Z",
+      "dateEnd": "2026-08-02T23:27:25.000Z",
+      "dateLabel": "8/2/2026, 5:44:00 PM - 8/2/2026, 6:27:25 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260802-174400-18ik",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260725-194911-4qna",
       "title": "Floorpov Cay",
       "commanders": [
