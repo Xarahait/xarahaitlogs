@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-210926-awh9",
+      "title": "Tràsh Pandà",
+      "commanders": [
+        "Tràsh Pandà"
+      ],
+      "guild": {
+        "id": "FEE46056-0C69-ED11-8466-122223FBD123",
+        "name": "Bâd Wôrd",
+        "tag": "bW"
+      },
+      "dateStart": "2026-08-03T02:09:26.000Z",
+      "dateEnd": "2026-08-03T03:01:12.000Z",
+      "dateLabel": "8/2/2026, 9:09:26 PM - 8/2/2026, 10:01:12 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260802-210926-awh9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260802-222905-j8pp",
       "title": "Tràsh Pandà",
       "commanders": [
