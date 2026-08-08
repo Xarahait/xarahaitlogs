@@ -4,6 +4,36 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-212944-1a69",
+      "title": "Grimaldi, Jmbrage, Meme Thief Thorton",
+      "commanders": [
+        "Grimaldi",
+        "Jmbrage",
+        "Meme Thief Thorton"
+      ],
+      "guild": {
+        "id": "597E8889-A6C3-4BF5-9643-6A044231961C",
+        "name": "Blood Pact",
+        "tag": "BP"
+      },
+      "dateStart": "2026-08-08T02:29:44.000Z",
+      "dateEnd": "2026-08-08T03:07:11.000Z",
+      "dateLabel": "8/7/2026, 9:29:44 PM - 8/7/2026, 10:07:11 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260807-212944-1a69",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260806-231111-n2mr",
       "title": "Öptussy",
       "commanders": [
