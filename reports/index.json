@@ -4,6 +4,49 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-225446-mabw",
+      "title": "Link Throws Siege",
+      "commanders": [
+        "Link Throws Siege"
+      ],
+      "guild": {
+        "id": "9C94360D-66E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Stop Farming Me",
+        "tag": "Bags"
+      },
+      "dateStart": "2026-08-09T03:54:46.000Z",
+      "dateEnd": "2026-08-09T04:43:38.000Z",
+      "dateLabel": "8/8/2026, 10:54:46 PM - 8/8/2026, 11:43:38 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260808-225446-mabw",
+      "summary": {
+        "borderlandsPct": 0.9838709677419355,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260808-205740-rnay",
       "title": "Link Throws Siege",
       "commanders": [
