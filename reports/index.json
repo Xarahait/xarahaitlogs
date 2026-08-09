@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-205740-rnay",
+      "title": "Link Throws Siege",
+      "commanders": [
+        "Link Throws Siege"
+      ],
+      "guild": {
+        "id": "9C94360D-66E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Stop Farming Me",
+        "tag": "Bags"
+      },
+      "dateStart": "2026-08-09T01:57:40.000Z",
+      "dateEnd": "2026-08-09T02:32:09.000Z",
+      "dateLabel": "8/8/2026, 8:57:40 PM - 8/8/2026, 9:32:09 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260808-205740-rnay",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 16
+      }
+    },
+    {
       "id": "20260807-212944-1a69",
       "title": "Grimaldi, Jmbrage, Meme Thief Thorton",
       "commanders": [
