@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260812-204935-yqbx",
+      "title": "Link Throws Siege",
+      "commanders": [
+        "Link Throws Siege"
+      ],
+      "guild": {
+        "id": "9C94360D-66E5-E411-8D0D-AC162DAE8ACD",
+        "name": "Stop Farming Me",
+        "tag": "Bags"
+      },
+      "dateStart": "2026-08-13T01:49:35.000Z",
+      "dateEnd": "2026-08-13T02:28:29.000Z",
+      "dateLabel": "8/12/2026, 8:49:35 PM - 8/12/2026, 9:28:29 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260812-204935-yqbx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Obsidian Sanctum",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 20
+      }
+    },
+    {
       "id": "20260808-225446-mabw",
       "title": "Link Throws Siege",
       "commanders": [
