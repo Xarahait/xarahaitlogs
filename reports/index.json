@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-222630-9sha",
+      "title": "Omgiszbeast",
+      "commanders": [
+        "Omgiszbeast"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-15T03:26:30.000Z",
+      "dateEnd": "2026-08-15T04:11:13.000Z",
+      "dateLabel": "8/14/2026, 10:26:30 PM - 8/14/2026, 11:11:13 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260814-222630-9sha",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260814-222630-9m7q",
       "title": "Omgiszbeast",
       "commanders": [
