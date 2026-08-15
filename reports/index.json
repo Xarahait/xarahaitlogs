@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260814-222630-uf6c",
+      "title": "Omgiszbeast",
+      "commanders": [
+        "Omgiszbeast"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-15T03:26:30.000Z",
+      "dateEnd": "2026-08-15T04:11:13.000Z",
+      "dateLabel": "8/14/2026, 10:26:30 PM - 8/14/2026, 11:11:13 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260814-222630-uf6c",
+      "summary": {
+        "borderlandsPct": 0.02040816326530612,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 35,
+            "color": "#64748b"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260812-204935-yqbx",
       "title": "Link Throws Siege",
       "commanders": [
