@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260821-213508-0ehi",
+      "title": "Diamond Legend",
+      "commanders": [
+        "Diamond Legend"
+      ],
+      "guild": {
+        "id": "9C5C7815-2605-F111-BB22-12A0968B4CAD",
+        "name": "Dan Is My Guild Name",
+        "tag": "Dan"
+      },
+      "dateStart": "2026-08-22T02:35:08.000Z",
+      "dateEnd": "2026-08-22T03:04:23.194Z",
+      "dateLabel": "8/21/2026, 9:35:08 PM - 8/21/2026, 10:04:23 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260821-213508-0ehi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 21,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 13
+      }
+    },
+    {
       "id": "20260814-222630-9sha",
       "title": "Omgiszbeast",
       "commanders": [
