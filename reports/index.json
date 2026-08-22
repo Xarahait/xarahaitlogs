@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260821-221516-7ofe",
+      "title": "Papa Akram",
+      "commanders": [
+        "Papa Akram"
+      ],
+      "guild": {
+        "id": "95708762-3C54-F011-81AC-95DFE50946EB",
+        "name": "Hazardous Guild",
+        "tag": "HZRD"
+      },
+      "dateStart": "2026-08-22T03:15:16.000Z",
+      "dateEnd": "2026-08-22T04:01:18.161Z",
+      "dateLabel": "8/21/2026, 10:15:16 PM - 8/21/2026, 11:01:18 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260821-221516-7ofe",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260821-213508-0ehi",
       "title": "Diamond Legend",
       "commanders": [
