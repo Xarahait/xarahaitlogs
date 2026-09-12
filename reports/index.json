@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260911-215217-0k1p",
+      "title": "Novahh X",
+      "commanders": [
+        "Novahh X"
+      ],
+      "guild": {
+        "id": "AD029DBA-DC93-495A-A155-F87CAE6DC280",
+        "name": "Elite Apes",
+        "tag": "Apex"
+      },
+      "dateStart": "2026-09-12T02:52:17.000Z",
+      "dateEnd": "2026-09-12T03:28:13.533Z",
+      "dateLabel": "9/11/2026, 9:52:17 PM - 9/11/2026, 10:28:13 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20260911-215217-0k1p",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 30,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260830-211606-88jm",
       "title": "Eryn Tyrell",
       "commanders": [
