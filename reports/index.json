@@ -1,8 +1,48 @@
 {
   "colorPalette": "violet-purple",
-  "glassSurfaces": true,
-  "glassmorphic": false,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.6"
+  },
   "entries": [
+    {
+      "id": "20261013-213330-kq7p",
+      "title": "Caught In Four Cay, Super Soaker Star",
+      "commanders": [
+        "Caught In Four Cay",
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-14T02:33:30.000Z",
+      "dateEnd": "2026-10-14T03:09:34.903Z",
+      "dateLabel": "10/13/2026, 9:33:30 PM - 10/13/2026, 10:09:34 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20261013-213330-kq7p",
+      "publishedBy": "Xarahait",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 34,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 5,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 33
+      }
+    },
     {
       "id": "20260916-212913-wm36",
       "title": "Eryn Tyrell",
