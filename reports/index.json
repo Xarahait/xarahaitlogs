@@ -9,6 +9,41 @@
   },
   "entries": [
     {
+      "id": "20261015-203546-3idr",
+      "title": "Magician Of Drascir, Paralda",
+      "commanders": [
+        "Magician Of Drascir",
+        "Paralda"
+      ],
+      "guild": {
+        "id": "5DE91D07-EED0-4835-8CD8-B77A3EA3CB1D",
+        "name": "Pyromancers",
+        "tag": "PYRO"
+      },
+      "dateStart": "2026-10-16T01:35:46.000Z",
+      "dateEnd": "2026-10-16T02:58:53.829Z",
+      "dateLabel": "10/15/2026, 8:35:46 PM - 10/15/2026, 9:58:53 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20261015-203546-3idr",
+      "publishedBy": "Xarahait",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 50
+      }
+    },
+    {
       "id": "20261013-213330-kq7p",
       "title": "Caught In Four Cay, Super Soaker Star",
       "commanders": [
