@@ -9,6 +9,36 @@
   },
   "entries": [
     {
+      "id": "20261027-212300-qx0b",
+      "title": "Deshka Il, Super Soaker Star",
+      "commanders": [
+        "Deshka Il",
+        "Super Soaker Star"
+      ],
+      "guild": {
+        "id": "654B05B7-4FF0-E411-AB13-E4115BDFC985",
+        "name": "Jet Fuel Cänt Melt Dank Memes",
+        "tag": "KEK"
+      },
+      "dateStart": "2026-10-28T02:23:00.000Z",
+      "dateEnd": "2026-10-28T03:01:04.720Z",
+      "dateLabel": "10/27/2026, 9:23:00 PM - 10/27/2026, 10:01:04 PM",
+      "url": "https://Xarahait.github.io/xarahaitlogs/?report=20261027-212300-qx0b",
+      "publishedBy": "Xarahait",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20261015-201856-p4pj",
       "title": "Paralda",
       "commanders": [
